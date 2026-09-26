@@ -19,23 +19,3 @@
 | Find the underworld | Charlotte | 3h | 26.09.26 | - |
 | Find the spells | Samuel | 3h | 26.09.26 | - |
 | Recruit sacrifices | Love | 336h | 26.09.26 | All other tasks must be completed before this one finishes | 
-
-
-
-
-
-
-
-
-
-
-* [Objective 4](/sacrifices.md): Recruit 3 people to sacrifice
-
-
-
-
-
-
-
-
-| Recruit sacrifices | Love | 336h | 26.09.26 | All other tasks must be done as this one finishes | 
