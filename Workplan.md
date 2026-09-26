@@ -17,5 +17,4 @@
 | :--- | :--- | :--- | :--- | :--- |
 | Wizard training | Herman | 1 week | 28.09.26 | - |
 | Find the underworld | Charlotte | 3h | 26.09.26 | - |
-
-
+| Find the spells | Samuel | 3h | 26.09.26 | - |
