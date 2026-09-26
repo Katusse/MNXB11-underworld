@@ -1,0 +1,1 @@
+You need to go to the abondend forest to find the summoning spells, of which you need to find the horn of the angelic goat, a branch from the tree of life and a tear drop from the almight whale.
