@@ -6,10 +6,10 @@
 * **Solution:** Summon a creature or two from the underworld to scare people
 
 ## 2. SMART Objectives
-* [ ] Objective 1: Find the underworld
-* [ ] Objective 2: Find ancient dark magic summoning spells
-* [ ] Objective 3: Train a wizard in the dark arts
-* [ ] Objective 4: Recruit 5 people to sacrifice
+* [Objective 1](/Find_Underworld.md) : Find the underworld
+* [Objective 2](/spells.md): Find ancient dark magic summoning spells 
+* [Objective 3](/wizard-training-diary.md): Train a wizard in the dark arts
+* [Objective 4](/sacrifices.md): Recruit 5 people to sacrifice
 
 ## 3. Task Breakdown & Schedule
 
@@ -18,3 +18,4 @@
 | Wizard training | Herman | 1 week | 28.09.26 | - |
 | Find the underworld | Charlotte | 3h | 26.09.26 | - |
 | Find the spells | Samuel | 3h | 26.09.26 | - |
+
