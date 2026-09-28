@@ -6,3 +6,6 @@ Dear Diary, I can make chairs levitate!!! I've also learned how to set stuff on 
 
 ## WEDNESDAY 23/9/26
 **Hello book that I write in, this message is written using only my mind through a transcription spell.** I feel like I am becoming powerful and I am very much looking forward to attempt to start summoning creatures. I was able to make a small, slightly disfigured garden gnome yesterday, so I am getting close! Now I'm just waiting for my other team members to locate the spell book, some sacrificees and a suitable portal to the underworld to open.
+
+## MONDAY 28/9/26
+Dear Diary, I am more powerful than ever. I can summon frogs just by thinking about them. The spells have been gathered and I believe we have sacrificees ready to go. Soon the gates to the underworld will open and all its creatures will get to explore Earth. This will be *epic*!!!
